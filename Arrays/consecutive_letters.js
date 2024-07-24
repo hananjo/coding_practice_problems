@@ -1,3 +1,5 @@
+//EASY
+
 // Given an array of words, your task is to write a function 
 // that returns an array of integers. For each word in the input array:
 // Return 1 if the word contains two consecutive identical letters.

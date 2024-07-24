@@ -1,3 +1,5 @@
+//HARD
+
 function loadBalancing(k, arrival, load) {
     let requests = new Array(k).fill(0); // Array to count the number of requests each server handled
     let servers = new Array(k).fill(0);  // Array to track the next available time for each server
