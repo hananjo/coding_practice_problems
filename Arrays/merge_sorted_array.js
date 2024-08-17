@@ -48,4 +48,4 @@ let merge = function(nums1, m, nums2, n) {
 //     }
 
 //     // No need to copy remaining elements from nums1, as they are already in place
-// }; .
+// }; 
