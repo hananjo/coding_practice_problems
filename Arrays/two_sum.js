@@ -14,7 +14,8 @@ var twoSum = function(nums, target) {
         map.set(nums[i], i)
     }
     
-    
+
+}
     //Time complexity: O(n)
     //When to use Two-Pointer:
     //Two pointer would not work when input array is sorted or needs to be sorted for whatever reason
