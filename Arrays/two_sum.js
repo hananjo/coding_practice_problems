@@ -15,4 +15,12 @@ var twoSum = function(nums, target) {
     }
     
     
-    
+    //Time complexity: O(n)
+    //When to use Two-Pointer:
+    //Two pointer would not work when input array is sorted or needs to be sorted for whatever reason
+    //the memory usage is a concern and would therefore not use hashmap becuase it would take too much space
+
+    //Use hash map if the input array is not sorted and want the most efficient solution
+
+    //when having to sort and do two pointer, the time complexity would become O(nlogn) which is ok
+    //if the input data is under just a few million however more than that it becomes very inefficient 
